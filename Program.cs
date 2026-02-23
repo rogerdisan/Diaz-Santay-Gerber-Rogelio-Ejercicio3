@@ -40,3 +40,5 @@ double descuento = 0;
 double recargo = 0;
 double total = monto;
 
+switch (cliente)
+{
